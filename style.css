@@ -1,0 +1,28 @@
+
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Roboto', sans-serif;;
+}
+
+.container {
+    width: 70%;
+    margin: auto;
+    
+}
+
+form {
+    width: 100%;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+img {
+    padding: 15px;
+}
+
+#espace {
+    margin-left: 50px;
+}
+
